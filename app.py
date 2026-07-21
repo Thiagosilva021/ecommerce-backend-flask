@@ -43,7 +43,7 @@ class CartItem(db.Model):
 # Rotas do login, logout
 # ===========================
 
-# Autenticação
+# Autenticação do usuário usando o Flask-Login
 @login_manager.user_loader
 def load_user(user_id): # Função que carrega o usuário a partir do ID fornecido
     return User.query.get(int(user_id)) # Função que carrega o usuário a partir do ID fornecido, retornando o objeto User correspondente do banco de dados
