@@ -45,7 +45,7 @@ class CartItem(db.Model):
 
 # Autenticação
 @login_manager.user_loader
-def load_user(user_id):
+def load_user(user_id): # Função que carrega o usuário a partir do ID fornecido
     return User.query.get(int(user_id)) # Função que carrega o usuário a partir do ID fornecido, retornando o objeto User correspondente do banco de dados
 
 # Rota para realizar o login do usuário
