@@ -57,7 +57,7 @@ O projeto permite autenticação de usuários, gerenciamento de produtos e opera
 ### 1. Clone o projeto
 
 ```bash
-git clone git clone https://github.com/Thiagosilva021/ecommerce-api.git
+git clone git clone https://github.com/Thiagosilva021/ecommerce-backend-flask
 ```
 
 ### 2. Entre na pasta
