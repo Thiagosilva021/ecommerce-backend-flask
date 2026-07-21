@@ -162,8 +162,3 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos de desenvolvi
 
 ---
 
-##  Autor
-
-Thiago Silva
-
-Estudante de Ciência da Computação.
