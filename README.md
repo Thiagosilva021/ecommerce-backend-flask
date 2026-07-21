@@ -57,7 +57,7 @@ O projeto permite autenticação de usuários, gerenciamento de produtos e opera
 ### 1. Clone o projeto
 
 ```bash
-git clone https://github.com/SEU-USUARIO/ecommerce-api.git
+git clone https://github.com/Thiagosilva021/ecommerce-api.git
 ```
 
 ### 2. Entre na pasta
